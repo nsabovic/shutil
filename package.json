@@ -1,0 +1,13 @@
+{
+  "name": "shutil",
+  "version": "0.0.1",
+  "description": "Utilities for async shell scripting in node.js",
+  "keywords": ["shell", "scripting", "async"],
+  "repository" : {
+    "type": "git",
+    "url": "http://github.com/nsabovic/shutil.git"
+  },
+  "bugs": {"url": "https://github.com/nsabovic/shutil/issues"},
+  "engines": {"node": ">= 0.4.0"},
+  "os": ["!win32"]
+}
